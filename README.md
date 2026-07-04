@@ -15,4 +15,4 @@ I am a final-year B.Tech student with a strong interest in Data Science, Machine
 ---
 [![](https://komarev.com/ghpvc/?username=Rishij Manna&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
